@@ -305,7 +305,7 @@ a:hover, a:focus, a:active {
 /* Team 
 ================================= */
 .team-member {
-  background: #1f76bd;
+  background: rgb(89, 167, 110);
   color: #fff;
   text-align: center;
   padding-bottom: 15px;
@@ -324,7 +324,7 @@ a:hover, a:focus, a:active {
 /* footer 
 ================================= */
 .footer-top {
-  background: #115c9b;
+  background: #369b11;
   height: 40px;
 }
 
@@ -368,7 +368,7 @@ a:hover, a:focus, a:active {
 }
 
 .footer-bottom {
-  background: #115c9b;
+  background: #369b11;
   padding: 3px;
 }
 
