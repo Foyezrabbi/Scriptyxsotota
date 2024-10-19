@@ -329,7 +329,7 @@ a:hover, a:focus, a:active {
 }
 
 .main-footer {
-  background: #1f76bd;
+  background: rgb(89, 167, 110);
   color: #fff;
 }
 .main-footer .footer-main {
